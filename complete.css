@@ -1,0 +1,11 @@
+body {
+    background-color: lavenderblush;
+    background-image: url(./image/24.jpg);
+}
+
+p {
+    text-align: center;
+    font-size: 4em;
+    font-family: '黑体';
+    font-style: normal;
+}

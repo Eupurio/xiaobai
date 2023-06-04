@@ -1,0 +1,111 @@
+body {
+    background-color: #E6E6FA;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(./image/23.jpg);
+}
+
+div#header {
+    height: 80px;
+    width: 100%;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.header_h1 {
+    font-family: '仿宋';
+    font-size: 4em;
+    color: black;
+    letter-spacing: 40px;
+    padding-top: 10px;
+    text-align:center;
+    margin-left: 50px;
+    margin-top: 0;
+    
+}
+
+div#nav {
+    height: 70px;
+    width: 100%;
+    background-color: rgb(240, 248, 255,1);
+   
+}
+
+ul {
+    list-style-type: none;
+    font-family: '黑体';
+    font-size: 20px;
+    font-weight: 1500px;
+    letter-spacing: 40px;
+    line-height: 20px;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 20px;
+
+}
+
+li {
+    display: inline;
+    padding: 3px;
+    margin-left: 50px;
+}
+
+a:link{
+    color: black;
+    text-decoration:none;
+}
+a:visited{
+    color: #696969;
+}
+div#container {
+    /* background-color: #6495ED; */
+    height: 525px;
+    width: 1300px;
+    margin-left: 100px;
+    border: solid ;
+    border-radius: 10px;
+    line-height: 1;
+    text-align: center;
+}
+
+.container_1 {
+    width: 325px;
+    height: 250px;
+    float: left;
+}
+
+.container_1_img {
+    width:250px ;
+    height: 200px;
+}
+
+h1 {
+    font-family: '仿宋';
+    text-align: center;
+    font-size: 1.5em;
+
+}
+
+.video {
+    height: 500px;
+    width: 800px;
+    text-align: center;
+    padding-left: 25%;
+    padding-top: 5%;
+}
+
+
+div#footer {
+    height: 50px;
+    width: 100%;
+    line-height: normal;
+}
+
+.final_name {
+    text-align: center;
+    font-size: 1em;
+    font-family: '仿宋';
+    font-style: italic;
+    padding-top: 15px;
+}
