@@ -1,0 +1,74 @@
+body {
+    background-color:  rgb(100, 149, 237);
+    background-image: url(./image/x.jpg);
+    background-size:cover;
+}
+
+div.inner {
+    width: 250px;
+    margin-left:0%;
+    margin-right: 0%;
+}
+
+.box {
+    width:450px;
+    height: 550px;
+    padding-top:60px;
+    padding-bottom: 40px;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 3%;
+    font-family: '仿宋';
+    color: black;
+    border: solid black;
+    border-radius: 5px;
+    background-color: white;
+    float: left;
+}
+
+
+
+.box .box_img {
+    width: 250px;
+}
+
+.box h1{
+    font-size: 50px;
+    letter-spacing: 4px;
+    font-weight: 400;
+}
+.box h2{
+    font-size: 30px;
+    letter-spacing: 3px;
+    font-weight: 300;
+}
+.self{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: grey;
+}
+.self:hover{
+    color: #4F4F4F;
+    font-size: 2em;
+}
+
+.box_1 {
+    width: 800px;
+    float: right;
+    height: 550px;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-top: 7%;
+}
+
+p {
+    text-align: center;
+    font-size: 2em;
+    font-family: '仿宋';
+    font-style: italic;
+    line-height: 50px;
+    font-weight: bolder;
+    color: black;
+}
+
